@@ -36,7 +36,7 @@ The structure adapts online when the data distribution drifts.
 
 ---
 
-## 🧠 Data Structures
+## Data Structures
 
 | Symbol | Description |
 |:--|:--|
@@ -48,7 +48,7 @@ The structure adapts online when the data distribution drifts.
 
 ---
 
-## ⚙️ Algorithm Overview
+## Algorithm Overview
 
 ### Insert(x)
 
@@ -68,7 +68,7 @@ The structure adapts online when the data distribution drifts.
 
 ---
 
-## 🧩 Complexity
+## Complexity
 
 | Operation | Expected Complexity |
 |:--|:--|
