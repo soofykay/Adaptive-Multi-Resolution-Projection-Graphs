@@ -1,4 +1,4 @@
-#(AMRPG)
+# (AMRPG)
 
 The goal with this algorithm is to establish fast and the best approximate nearest neighbor search for streaming, high dimensional, and distribution shifting data. Works well when memory/time budget are tight and the data distribution changes gradually. It combines John-Lindenstrauss style projections, multi-resolution indices, online density estimation, and local graph refinement.
 
